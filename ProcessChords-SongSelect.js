@@ -7,7 +7,7 @@
 // @match        https://songselect.ccli.com/Songs/*
 // @grant        none
 // ==/UserScript==
-
+// (C) 2017 Jon Penn, Distributed under GPLv2 or later (your choice)
 var verseSectionCount        = 1;
 var chorusSectionCount       = 1;
 var bridgeSectionCount       = 1;

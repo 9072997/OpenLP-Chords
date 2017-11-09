@@ -1,3 +1,4 @@
+// (C) 2017 Jon Penn, Distributed under GPLv2 or later (your choice)
 function processChords(chords, lyrics) {
 	// pad shorter string with spaces
 	while(chords.length > lyrics.length) lyrics += ' ';
